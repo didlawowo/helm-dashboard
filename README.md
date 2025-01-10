@@ -16,8 +16,9 @@
 
 ## Description
 
-_Helm Dashboard_ is an **open-source project** which offers a UI-driven way to view the installed Helm charts, see their revision history and
-corresponding k8s resources. It also allows users to perform simple actions such as rolling back to a 
+_Helm Dashboard_ is 
+an **open-source project** which offers a UI-driven way to view the installed Helm charts, see their revision history and
+corresponding k8s resources. It also allows users to perform simple actions such as rolling back to a
 revision or upgrading to a newer version.
 This project is part of [Komodor's](https://komodor.com/?utm_campaign=Helm-Dash&utm_source=helm-dash-gh) vision to
 help Kubernetes users to navigate and troubleshoot their clusters. It is important to note that Helm Dashboard is **NOT** an official project by the [helm team](https://helm.sh/).
